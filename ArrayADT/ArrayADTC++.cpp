@@ -337,7 +337,7 @@ int main()
 	int ch, sz;
 	int x, index;
 
-	cout << "Enter Size of Array";
+	cout << "Enter Size of Array \n";
 	scanf_s("%d", &sz);
 	arr1 = new Array(sz);
 
@@ -356,7 +356,7 @@ int main()
 
 		switch (ch)
 		{
-		case 1: cout << "Enter an element andindex ";
+		case 1: cout << "Enter an element and index ";
 			cin >> x >> index;
 			arr1->Insert(index, x);
 			break;
