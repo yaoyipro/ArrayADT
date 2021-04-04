@@ -1,6 +1,6 @@
 // ArrayADT.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
+/*
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
@@ -355,7 +355,7 @@ int main()
     for (i = 0; i < n; i++)
         scanf_s("%d", &arr.A[i]);
     arr.length = n;
-    */
+    
 
     //Insert(&arr, 2, 10);
     //Append(&arr, 10);
@@ -368,7 +368,7 @@ int main()
     
     return 0;
 }
-
+*/
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 

@@ -18,5 +18,8 @@
     <ClCompile Include="ArrayADT.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ArrayADTC++.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
